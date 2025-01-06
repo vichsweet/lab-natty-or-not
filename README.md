@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Gatinhos
 
 ## 📒 Descrição
 Utilização de IA para a criação de imagens
