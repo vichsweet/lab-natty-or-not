@@ -11,7 +11,3 @@ Abri o site na página de criação e digitei: "Gatinhos abraçando um símbolo 
 
 ## 🚀 Resultados
 ![image](https://github.com/user-attachments/assets/226d45a9-a3ea-471c-a974-36009776f964)
-
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
